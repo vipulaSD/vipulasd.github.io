@@ -2,20 +2,22 @@ languages:
   - item: Java
   - item: Python
   - item: JavaScript
+  - item: Dart
 
 frameworks:
-  - item: Tensorflow
+  - item: Google Cloud Platform
   - item: Spring Framework
+  - item: Android
+  - item: Flutter
+
+
+mle:
+  - item: Tensorflow
+  - item: Keras
+  - item: Scikit-learn
 
 tools:
   - item: Git
   - item: Gradle
   - item: Maven
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing

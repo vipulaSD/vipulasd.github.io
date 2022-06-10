@@ -13,6 +13,8 @@ social:
     url: mailto:vipula803@gmail.com
   - title: linkedin
     url: https://www.linkedin.com/in/vipulad/
+  - title: google scholar
+    url: https://scholar.google.com/citations?user=hrxppHoAAAAJ&hl=en
 
 # Build settings
 markdown: kramdown

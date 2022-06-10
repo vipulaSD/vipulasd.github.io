@@ -1,0 +1,19 @@
+<section class="section experience">
+  <div class="section__title">Certifications</div>
+  <div class="section__content">
+    <div class="jobs">
+      {% for certification in site.data.certifications %}
+      <div class="job">
+        <div class="time-place">
+          <div class="job__company">
+            <a href="{{certification.url}}" target="_blank">{{certification.title}}</a>
+          </div>
+          <div class="job__time">{{certification.time}}</div>
+        </div>
+        <div class="job__position">{{certification.org}}</div>
+      </div>
+      {% endfor %}
+    </div>
+
+  </div>
+</section>
