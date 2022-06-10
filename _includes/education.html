@@ -1,0 +1,19 @@
+<section class="section experience">
+  <div class="section__title">Education</div>
+  <div class="section__content">
+    <div class="jobs">
+      {% for qualification in site.data.qualifications %}
+      <div class="job">
+        <div class="time-place">
+          <div class="job__company">
+            <a href="{{qualification.url}}" target="_blank">{{qualification.company}}</a>
+          </div>
+          <div class="job__time">{{qualification.time}}</div>
+        </div>
+        <div class="job__position">{{qualification.position}}</div>
+      </div>
+      {% endfor %}
+    </div>
+
+  </div>
+</section>
