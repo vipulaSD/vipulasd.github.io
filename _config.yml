@@ -2,8 +2,8 @@
 name: Vipula Dissanayake
 title: Vipula Dissanayake | Machine Learning Engineer
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://vipulasd.github.io/
-baseurl: ''
+url: https://vipula.me/
+baseurl: 'vipula.me'
 email: vipula803@gmail.com
 cover: https://vipulasd.github.io/img/og.png
 logo: https://vipulasd.github.io/img/emojis/technologist.png
@@ -14,6 +14,7 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/vipulad/
 scholar: https://scholar.google.com/citations?user=hrxppHoAAAAJ&hl=en
+gtag: G-TBKY1DM4JJ
 # Build settings
 markdown: kramdown
 
