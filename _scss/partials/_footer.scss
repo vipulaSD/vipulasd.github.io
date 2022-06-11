@@ -14,6 +14,7 @@
   }
   &__copyright {
     font-weight: 100;
+    font-size: xx-small;
     width: 10px;
     @include weird-medium {
       width: auto;
@@ -23,9 +24,11 @@
     .top, .bottom {
       @include weird-medium {
         display: inline-block;
+        font-size: xx-small;
       }
       @include mobile {
         display: block;
+        font-size: xx-small;
       }
     }
     .emoji {
