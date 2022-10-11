@@ -1,10 +1,15 @@
+- company: Orion Health
+  url: https://orionhealth.com/nz/
+  time: August 2022 - Present
+  position: Full Stack Developer
+
 - company: The University of Auckland
   url: https://www.auckland.ac.nz/en.html
   time: June 2018 - Nov 2020
   position: Professional Casual Staff (Software Engineer)
 
-- company: Singapore University of Technology and Design
-  url: https://sutd.edu.sg
+- company: Augmented Human Lab
+  url: https://ahlab.org
   time: Sep 2017 - Feb 2018
   position: Research Assistant (Software Engineer)
 
